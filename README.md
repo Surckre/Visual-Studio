@@ -58,31 +58,61 @@ Please use responsibly and in compliance with Microsoft’s licensing terms.
 
 ---
 
-## 📥 Visual Studio 2012–2022
+## 📥 Visual Studio 2012
 
-👉 These versions are available via the **[Visual Studio Older Downloads](https://visualstudio.microsoft.com/vs/older-downloads/)** page (Microsoft account required):
-
-- **2012** – Express for Web/Desktop, Professional, Ultimate  
-- **2013** – Express for Windows/Web, Professional, Ultimate  
-- **2015** – Community, Professional, Enterprise  
-- **2017** – Community, Professional, Enterprise  
-- **2019** – Community, Professional, Enterprise  
-- **2022** – Community, Professional, Enterprise  
+| Edition     | Version Name                 | Release Date | Download Link                                   |
+|-------------|------------------------------|--------------|------------------------------------------------|
+| Express     | Express for Web/Desktop      | 2012         | [Download](https://example.com/vs2012-express-web.exe) |
+| Professional| Visual Studio 2012 Pro       | 2012         | [Download](https://example.com/vs2012-pro.exe) |
+| Ultimate    | Visual Studio 2012 Ultimate  | 2012         | [Download](https://example.com/vs2012-ultimate.exe) |
 
 ---
 
-## 🤝 Contributing
+## 📥 Visual Studio 2013
 
-Pull requests are welcome!  
-Please submit **verified links or corrections**.
-
-> Use only official Microsoft-hosted sources.
+| Edition     | Version Name                 | Release Date | Download Link                                   |
+|-------------|------------------------------|--------------|------------------------------------------------|
+| Express     | Express for Windows/Web      | 2013         | [Download](https://example.com/vs2013-express.exe) |
+| Professional| Visual Studio 2013 Pro       | 2013         | [Download](https://example.com/vs2013-pro.exe) |
+| Ultimate    | Visual Studio 2013 Ultimate  | 2013         | [Download](https://example.com/vs2013-ultimate.exe) |
 
 ---
 
-## 📚 License
+## 📥 Visual Studio 2015
 
-This repository is provided **as-is** for **archival and reference purposes only**.  
-No redistribution of binaries or proprietary files.
+| Edition     | Version Name                 | Release Date | Download Link                                   |
+|-------------|------------------------------|--------------|------------------------------------------------|
+| Community   | Visual Studio 2015 Community | 2015         | [Download](https://example.com/vs2015-community.exe) |
+| Professional| Visual Studio 2015 Pro       | 2015         | [Download](https://example.com/vs2015-pro.exe) |
+| Enterprise  | Visual Studio 2015 Enterprise| 2015         | [Download](https://example.com/vs2015-enterprise.exe) |
 
-© Microsoft. *Visual Studio* is a trademark of Microsoft Corporation.
+---
+
+## 📥 Visual Studio 2017
+
+| Edition     | Version Name                 | Release Date | Download Link                                   |
+|-------------|------------------------------|--------------|------------------------------------------------|
+| Community   | Visual Studio 2017 Community | 2017         | [Download](https://example.com/vs2017-community.exe) |
+| Professional| Visual Studio 2017 Pro       | 2017         | [Download](https://example.com/vs2017-pro.exe) |
+| Enterprise  | Visual Studio 2017 Enterprise| 2017         | [Download](https://example.com/vs2017-enterprise.exe) |
+
+---
+
+## 📥 Visual Studio 2019
+
+| Edition     | Version Name                 | Release Date | Download Link                                   |
+|-------------|------------------------------|--------------|------------------------------------------------|
+| Community   | Visual Studio 2019 Community | 2019         | [Download](https://example.com/vs2019-community.exe) |
+| Professional| Visual Studio 2019 Pro       | 2019         | [Download](https://example.com/vs2019-pro.exe) |
+| Enterprise  | Visual Studio 2019 Enterprise| 2019         | [Download](https://example.com/vs2019-enterprise.exe) |
+
+---
+
+## 📥 Visual Studio 2022
+
+| Edition     | Version Name                 | Release Date | Download Link                                   |
+|-------------|------------------------------|--------------|------------------------------------------------|
+| Community   | Visual Studio 2022 Community | 2022         | [Download](https://example.com/vs2022-community.exe) |
+| Professional| Visual Studio 2022 Pro       | 2022         | [Download](https://example.com/vs2022-pro.exe) |
+| Enterprise  | Visual Studio 2022 Enterprise| 2022         | [Download](https://example.com/vs2022-enterprise.exe) |
+
