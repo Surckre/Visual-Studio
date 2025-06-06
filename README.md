@@ -20,7 +20,7 @@ Please use responsibly and in compliance with Microsoft’s licensing terms.
 
 | Edition     | Version Name                 | Release Date | Download Link                                   |
 |-------------|------------------------------|--------------|------------------------------------------------|
-| Express     | Visual C++ 2005 Express      | Nov 2005     | [VC.iso](https://example.com/VC.iso)           |
+| Express     | Visual C++ 2005 Express      | Nov 2005     | [VC.iso](http://go.microsoft.com/fwlink/?linkid=57037)           |
 | Express     | Visual C# 2005 Express       | Nov 2005     | [VCS.iso](https://example.com/VCS.iso)         |
 | Express     | Visual Basic 2005 Express    | Nov 2005     | [VB.iso](https://example.com/VB.iso)           |
 | Express     | Visual Web Developer 2005    | Nov 2005     | [VWD.iso](https://example.com/VWD.iso)         |
