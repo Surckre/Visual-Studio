@@ -25,6 +25,7 @@ Please use responsibly and in compliance with Microsoft’s licensing terms.
 | Express     | Visual Basic 2005 Express    | Nov 2005     | [VB.iso](http://go.microsoft.com/fwlink/?linkid=57033)           |
 | Express     | Visual Web Developer 2005    | Nov 2005     | [VWD.iso](http://go.microsoft.com/fwlink/?linkid=57037)         |
 | Express     | All-in-One ISO (EN)          | Nov 2005     | [Full ISO](https://example.com/full.iso)       |
+| Express     | Visual J# 2005 Express       | Nov 2005     | [Full ISO](https://example.com/full.iso)       |
 | Professional| Visual Studio 2005 Pro       | Nov 2005     | *(MSDN / no public ISO)*                        |
 | Team Suite  | Visual Studio 2005 Team Suite| Nov 2005     | *(MSDN only)*                                   |
 
