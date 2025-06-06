@@ -1,433 +1,88 @@
-📦 Visual Studio – Official Download Archive (2005–2022)
+# 📦 Visual Studio – Official Download Archive (2005–2022)
 
-This repository collects official download pages and direct links to Microsoft Visual Studio editions, from 2005 to 2022 — including:
+Dieses Repository sammelt **offizielle Downloadseiten** und **direkte Links** zu Microsoft Visual Studio Editionen von **2005 bis 2022** — darunter:
 
-Express Editions (C++, C#, VB, Web)
+- 🧩 **Express Editions** (C++, C#, VB, Web)
+- 💼 **Professional**, **Ultimate**, **Community** und **Enterprise**
+- 📀 **ISO-Images** oder **Webinstaller** (sofern verfügbar)
 
-Professional, Ultimate, Community, and Enterprise
+---
 
-ISO or Web installers (where available)
+## ⚖️ Rechtlicher Hinweis
 
-❗ Legal Notice
+❗ Es werden **keine Seriennummern, Keys, Cracks oder raubkopierte Inhalte** geteilt.  
+Dieses Archiv listet **nur öffentlich verfügbare, von Microsoft gehostete Links** zu **Bildungs- und Archivierungszwecken**.  
+Bitte nutze diese Informationen **verantwortungsvoll und in Übereinstimmung mit den Microsoft-Lizenzbedingungen**.
 
-⚠️ No serial numbers, keys, cracks, or pirated content are shared.This archive lists only publicly available Microsoft-hosted links for educational and archival purposes.Use responsibly and in compliance with Microsoft's licensing terms.
+---
 
-🛍 Visual Studio 2005
+## 📥 Visual Studio 2005
 
-Edition
+| Edition     | Version Name                   | Release Date | Download Link        |
+|------------|--------------------------------|--------------|----------------------|
+| Express     | Visual C++ 2005 Express        | Nov 2005     | `VC.iso`             |
+| Express     | Visual C# 2005 Express         | Nov 2005     | `VCS.iso`            |
+| Express     | Visual Basic 2005 Express      | Nov 2005     | `VB.iso`             |
+| Express     | Visual Web Developer 2005      | Nov 2005     | `VWD.iso`            |
+| Express     | All-in-One ISO (EN)            | Nov 2005     | `Full ISO`           |
+| Professional| Visual Studio 2005 Pro         | Nov 2005     | *(MSDN / kein ISO)*  |
+| Team Suite  | Visual Studio 2005 Team Suite  | Nov 2005     | *(nur MSDN)*         |
 
-Version Name
+---
 
-Release Date
+## 📥 Visual Studio 2008
 
-Download Link
+| Edition     | Version Name                   | Release Date | Download Link        |
+|------------|--------------------------------|--------------|----------------------|
+| Express     | Visual C++ 2008 Express        | Nov 2007     | `vcsetup.exe`        |
+| Express     | Visual C# 2008 Express         | Nov 2007     | `vcssetup.exe`       |
+| Express     | Visual Basic 2008 Express      | Nov 2007     | `vbsetup.exe`        |
+| Express     | Web Developer 2008             | Nov 2007     | `InstallWDE.exe`     |
+| Express     | All-in-One ISO SP1             | Aug 2008     | `ISO`                |
+| Professional| Visual Studio 2008 Pro         | Nov 2007     | *(MSDN / archiviert)*|
+| Team Suite  | Visual Studio 2008 Team Suite  | Nov 2007     | *(nur MSDN)*         |
 
-Express
+---
 
-Visual C++ 2005 Express
+## 📥 Visual Studio 2010
 
-Nov 2005
+| Edition     | Version Name                   | Release Date | Download Link        |
+|------------|--------------------------------|--------------|----------------------|
+| Express     | Visual C++ 2010 Express        | Apr 2010     | `vc_web.exe`         |
+| Express     | Visual C# 2010 Express         | Apr 2010     | `vcs_web.exe`        |
+| Express     | Visual Basic 2010 Express      | Apr 2010     | `vb_web.exe`         |
+| Express     | Web Developer 2010             | Apr 2010     | `vwd_web.exe`        |
+| Express     | Full DVD ISO                   | Apr 2010     | `ISO`                |
+| Professional| Visual Studio 2010 Pro         | Apr 2010     | *(archiviert)*       |
+| Ultimate    | Visual Studio 2010 Ultimate    | Apr 2010     | *(archiviert)*       |
 
-VC.iso
+---
 
-Express
+## 📥 Visual Studio 2012–2022
 
-Visual C# 2005 Express
+👉 Diese Versionen sind über die **[Visual Studio Older Downloads](https://visualstudio.microsoft.com/vs/older-downloads/)**-Seite verfügbar (Microsoft-Konto erforderlich):
 
-Nov 2005
+- **2012** – Express für Web/Desktop, Professional, Ultimate  
+- **2013** – Express für Windows/Web, Professional, Ultimate  
+- **2015** – Community, Professional, Enterprise  
+- **2017** – Community, Professional, Enterprise  
+- **2019** – Community, Professional, Enterprise  
+- **2022** – Community, Professional, Enterprise  
 
-VCS.iso
+---
 
-Express
+## 🤝 Mitwirken
 
-Visual Basic 2005 Express
+Pull Requests sind willkommen!  
+Bitte reiche **verifizierte Links oder Korrekturen** ein.
 
-Nov 2005
+> Verwende ausschließlich offiziell von **Microsoft gehostete Quellen**.
 
-VB.iso
+---
 
-Express
+## 📚 Lizenz
 
-Visual Web Developer 2005
+Dieses Repository wird **as-is** für **Archivierungs- und Referenzzwecke** bereitgestellt.  
+**Keine Weiterverbreitung von Binärdateien oder proprietären Inhalten.**
 
-Nov 2005
-
-VWD.iso
-
-Express
-
-All-in-One ISO (EN)
-
-Nov 2005
-
-Full ISO
-
-Professional
-
-Visual Studio 2005 Pro
-
-Nov 2005
-
-(MSDN / no public ISO)
-
-Team Suite
-
-Visual Studio 2005 Team Suite
-
-Nov 2005
-
-(MSDN only)
-
-🛍 Visual Studio 2008
-
-Edition
-
-Version Name
-
-Release Date
-
-Download Link
-
-Express
-
-Visual C++ 2008 Express
-
-Nov 2007
-
-vcsetup.exe
-
-Express
-
-Visual C# 2008 Express
-
-Nov 2007
-
-vcssetup.exe
-
-Express
-
-Visual Basic 2008 Express
-
-Nov 2007
-
-vbsetup.exe
-
-Express
-
-Web Developer 2008
-
-Nov 2007
-
-InstallWDE.exe
-
-Express
-
-All-in-One ISO SP1
-
-Aug 2008
-
-ISO
-
-Professional
-
-Visual Studio 2008 Pro
-
-Nov 2007
-
-(MSDN / archived only)
-
-Team Suite
-
-Visual Studio 2008 Team Suite
-
-Nov 2007
-
-(MSDN only)
-
-🛍 Visual Studio 2010
-
-Edition
-
-Version Name
-
-Release Date
-
-Download Link
-
-Express
-
-Visual C++ 2010 Express
-
-Apr 2010
-
-vc_web.exe
-
-Express
-
-Visual C# 2010 Express
-
-Apr 2010
-
-vcs_web.exe
-
-Express
-
-Visual Basic 2010 Express
-
-Apr 2010
-
-vb_web.exe
-
-Express
-
-Web Developer 2010
-
-Apr 2010
-
-vwd_web.exe
-
-Express
-
-Full DVD ISO
-
-Apr 2010
-
-ISO
-
-Professional
-
-Visual Studio 2010 Pro
-
-Apr 2010
-
-(archived)
-
-Ultimate
-
-Visual Studio 2010 Ultimate
-
-Apr 2010
-
-(archived)
-
-🛍 Visual Studio 2012
-
-Edition
-
-Version Name
-
-Release Date
-
-Download Link
-
-Express
-
-Express for Web
-
-Aug 2012
-
-Download (sign-in required)
-
-Express
-
-Express for Windows Desktop
-
-Nov 2012
-
-Download
-
-Professional
-
-Visual Studio 2012 Pro
-
-Aug 2012
-
-Download
-
-Ultimate
-
-Visual Studio 2012 Ultimate
-
-Aug 2012
-
-Download
-
-🛍 Visual Studio 2013
-
-Edition
-
-Version Name
-
-Release Date
-
-Download Link
-
-Express
-
-Express for Windows
-
-Oct 2013
-
-Download
-
-Express
-
-Express for Web
-
-Oct 2013
-
-Download
-
-Professional
-
-Visual Studio 2013 Pro
-
-Oct 2013
-
-Download
-
-Ultimate
-
-Visual Studio 2013 Ultimate
-
-Oct 2013
-
-Download
-
-🛍 Visual Studio 2015
-
-Edition
-
-Version Name
-
-Release Date
-
-Download Link
-
-Community
-
-Visual Studio 2015 Community
-
-Jul 2015
-
-Download
-
-Professional
-
-Visual Studio 2015 Pro
-
-Jul 2015
-
-Download
-
-Enterprise
-
-Visual Studio 2015 Enterprise
-
-Jul 2015
-
-Download
-
-🛍 Visual Studio 2017
-
-Edition
-
-Version Name
-
-Release Date
-
-Download Link
-
-Community
-
-Visual Studio 2017 Community
-
-Mar 2017
-
-Download
-
-Professional
-
-Visual Studio 2017 Pro
-
-Mar 2017
-
-Download
-
-Enterprise
-
-Visual Studio 2017 Enterprise
-
-Mar 2017
-
-Download
-
-🛍 Visual Studio 2019
-
-Edition
-
-Version Name
-
-Release Date
-
-Download Link
-
-Community
-
-Visual Studio 2019 Community
-
-Apr 2019
-
-Download
-
-Professional
-
-Visual Studio 2019 Pro
-
-Apr 2019
-
-Download
-
-Enterprise
-
-Visual Studio 2019 Enterprise
-
-Apr 2019
-
-Download
-
-🛍 Visual Studio 2022
-
-Edition
-
-Version Name
-
-Release Date
-
-Download Link
-
-Community
-
-Visual Studio 2022 Community
-
-Nov 2021
-
-Download
-
-Professional
-
-Visual Studio 2022 Pro
-
-Nov 2021
-
-Download
-
-Enterprise
-
-Visual Studio 2022 Enterprise
-
-Nov 2021
-
-Download
-
-Contributions welcome! Help preserve the history of Visual Studio by submitting verified official links or corrections.
+© Microsoft. *Visual Studio* ist ein eingetragenes Warenzeichen der Microsoft Corporation.
