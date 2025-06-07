@@ -1,3 +1,5 @@
+## THIS IS JUST A SIDE PROJECT SO NOT ANY OF THE LINKS WORK!!!
+
 # 📦 Visual Studio – Official Download Archive (2005–2022)
 
 This repository collects **official download pages** and **direct links** to Microsoft Visual Studio editions from **2005 to 2022**, including:
